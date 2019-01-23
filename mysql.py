@@ -8,10 +8,10 @@ import pymysql
 from pymysql.err import IntegrityError
 
 db = pymysql.connect(
-    host='47.93.231.162',
-    user='lishang',
-    password='lishang123',
-    db='spider',
+    host='',
+    user='',
+    password='',
+    db='',
     charset='utf8',
     port=3306)
 
