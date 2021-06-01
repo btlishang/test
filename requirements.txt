@@ -15,4 +15,4 @@ PySocks==1.6.8
 requests==2.20.1
 selenium==3.14.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.26.5
